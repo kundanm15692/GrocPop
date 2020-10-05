@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+
+    <!--For Alert Dialog-->
+    <color name="color_FF0472B1">#FF0472B1</color>
+    <color name="color_ff2c2a2d">#FF2C2A2D</color>
+    <color name="color_FF8E8C90">#FF8E8C90</color>
 </resources>
