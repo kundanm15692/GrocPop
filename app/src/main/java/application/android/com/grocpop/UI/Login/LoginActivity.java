@@ -1,9 +1,11 @@
-package application.android.com.grocpop;
+package application.android.com.grocpop.UI.Login;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import application.android.com.grocpop.R;
+
+public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
