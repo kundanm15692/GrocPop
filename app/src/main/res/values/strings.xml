@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GrocPop</string>
+    <string name="get_your_groceries_with_us">Get your groceries with us</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_your_4_digit_code">Enter your 4-digit code</string>
+    <string name="terms_and_condition">By continuing you agree to our <font fgcolor='#3D5DC5'> Terms of Service </font> and <font fgcolor='#3D5DC5'> Privacy Policy </font>.</string>
 
 </resources>
